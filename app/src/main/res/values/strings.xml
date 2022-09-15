@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Simple Spending Tracker</string>
+    <string name="add_expenditure_string">Add Expenditure Type</string>
+    <string name="expenditure_list_string">List of Expenditure Types</string>
+    <string name="add_amount_spent_string">Add Amount Spent Towards Expenditure Type</string>
+    <string name="edit_expenditure_type_string">Edit Expenditure Type</string>
+    <string name="delete_expenditure_type_string">Delete Expenditure Type</string>
+    <string name="amount_spent_hint_string">Amount</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="currency_symbol_placeholder" translatable="false">$</string>
+    <string name="left_string">Left</string>
+    <string name="expenditure_name_placeholder_string" translatable="false">Applesauceeeeee</string>
+    <string name="spent_amount_placeholder_string" translatable="false">$10.00</string>
+    <string name="max_amount_placeholder_string" translatable="false">/ $1,000,000.00</string>
+    <string name="amount_left_placeholder_string" translatable="false">$999,990.00 Left</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>

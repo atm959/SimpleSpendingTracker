@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rastreador de gastos simple</string>
+    <string name="add_expenditure_string">Agregar tipo de gasto</string>
+    <string name="expenditure_list_string">Lista de tipos de gastos</string>
+    <string name="add_amount_spent_string">Agregar cantidad gastada hacia el tipo de gasto</string>
+    <string name="edit_expenditure_type_string">Editar tipo de gasto</string>
+    <string name="delete_expenditure_type_string">Eliminar tipo de gasto</string>
+    <string name="amount_spent_hint_string">Monto</string>
+    <string name="cancel_string">Cancelar</string>
+    <string name="left_string">Restantes</string>
+</resources>

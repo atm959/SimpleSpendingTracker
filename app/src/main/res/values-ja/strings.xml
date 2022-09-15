@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">シンプルな支出トラッカー</string>
+    <string name="left_string">左</string>
+    <string name="cancel_string">キャンセル</string>
+    <string name="amount_spent_hint_string">額</string>
+    <string name="delete_expenditure_type_string">支出タイプの削除</string>
+    <string name="edit_expenditure_type_string">支出タイプの編集</string>
+    <string name="add_amount_spent_string">支出タイプに向けて費やされた金額を追加する</string>
+    <string name="expenditure_list_string">支出タイプのリスト</string>
+    <string name="add_expenditure_string">支出タイプの追加</string>
+</resources>

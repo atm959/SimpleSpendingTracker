@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Einfacher Ausgaben-Tracker</string>
+    <string name="cancel_string">Absagen</string>
+    <string name="amount_spent_hint_string">Menge</string>
+    <string name="delete_expenditure_type_string">Ausgabenart löschen</string>
+    <string name="edit_expenditure_type_string">Ausgabenart bearbeiten</string>
+    <string name="add_amount_spent_string">Fügen Sie den für die Ausgabenart ausgegebenen Betrag hinzu</string>
+    <string name="expenditure_list_string">Liste der Ausgabenarten</string>
+    <string name="add_expenditure_string">Ausgabenart hinzufügen</string>
+    <string name="left_string">Übrig</string>
+</resources>
